@@ -9,7 +9,7 @@ Nodes placed randomly on the screen organize themselves into circles.
 
 ## Inspiration
 
-This project was inspired by [What Do Algorithms Want?](https://thoughtforms.life/what-do-algorithms-want-a-new-paper-on-the-emergence-of-surprising-behavior-in-the-most-unexpected-places/) by Michael Levin. In the paper he describes placing sorting algorithms on the items to be sorted. I thought that it would be fun to try this with some more visual goals - like, for example - nodes want to organize themselves into circles with their neightbors. The first version was created as a colaboration between Josh On (@joshon) and Miles Thompson (@utunga)
+This project was inspired by [What Do Algorithms Want?](https://thoughtforms.life/what-do-algorithms-want-a-new-paper-on-the-emergence-of-surprising-behavior-in-the-most-unexpected-places/) by Michael Levin. In the paper he describes placing sorting algorithms on the items to be sorted. I thought that it would be fun to try this with some more visual goals - like, for example - nodes want to organize themselves into circles with their neightbors. The first version was created as a colaboration between Josh On ([@joshon](https://github.com/joshon)) and Miles Thompson ([@utunga](https://github.com/utunga))
 
 ## Potential next steps
 
